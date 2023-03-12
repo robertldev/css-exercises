@@ -1,0 +1,18 @@
+.oddnumbers {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigfont {
+    font-size: 24px;
+}
+
+#row2id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#row4id {
+    background-color: #90ee90;
+    font-weight: bold;
+}
